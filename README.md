@@ -28,12 +28,6 @@
 
 Welcome to Money Manager, your digital financial assistant! Streamline personal finance easily using Django and MySQL for effective budgeting and expense tracking.
 
-# Live Demo 👇:
-
-<a href="https://money-manager.me" target="_blank">money-manager.me</a>
-
-<br>
-
 
 ## Table Of Contents :
 
@@ -161,30 +155,3 @@ https://github.com/prathmeshsoni/Money-Management/assets/78293392/36d7c633-c1f5-
 
 The repository is a starting point for most of my professional projects; for this, I'm using it as a part of my portfolio, feel free to use it wherever you want. I'll be happy if you provide any feedback code improvements or suggestions.
 
-
-## Connect with me at
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/PrathmeshSoni/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:connect.prathmeshsoni@gmail.com'>connect.prathmeshsoni@gmail.com</a>
-</p>
-
-
-## All Set :)
-
-<p style="float:left;" align="left">
-  <a href="#top">Back To Top</a>
-</p>
-
-<p style="text-align:right;" align="right">
-  <a href="https://github.com/PrathmeshSoni/Money-Management" target="_blank">Back To Repository</a>
-</p>
-
-
----
-**<a href="https://money-manager.me" target="_blank">Money Manager</a>** - Provided by **<a href="https://prathmeshsoni.works" target="_blank">Prathmesh Soni</a>**

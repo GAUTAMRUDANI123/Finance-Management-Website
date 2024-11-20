@@ -149,5 +149,3 @@ https://github.com/prathmeshsoni/Money-Management/assets/78293392/36d7c633-c1f5-
 
 <br />
 
-The repository is a starting point for most of my professional projects; for this, I'm using it as a part of my portfolio, feel free to use it wherever you want. I'll be happy if you provide any feedback code improvements or suggestions.
-
